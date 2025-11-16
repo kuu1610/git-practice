@@ -6,3 +6,5 @@ rebase-practiceブランチで更新(コンフリクト練習用)
 rebase用
 stash練習トラック済み
 stash(2nd)
+
+test変更
